@@ -1,0 +1,2 @@
+# Lifely--A-college-lifestyle-blog
+Lifely is a website that shows students a guide to unlocking their full potential. Our main focus is to educate students and we do this by focusing on time prioritization, health and wellness, and stress relievers. Students are extremely busy and overwhelmed and do not know how to handle all of their tasks. Lifely shows students step by step, on how to balance school, work, life, and increase health and wellness.
